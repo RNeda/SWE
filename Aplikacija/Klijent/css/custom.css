@@ -1,0 +1,76 @@
+.dropbtn {
+    border: none;
+    cursor: pointer;
+    font-size:15px;
+    color:#00ff7e;
+    padding-left: 30px;
+  }
+  .dropdown {
+    margin-top: 10px;
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    /* position: absolute; */
+    background-color: #f1f1f1;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* z-index: 1; */
+    border-radius: 5%;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 7px;
+    text-decoration: none;
+    display: block;
+    border-radius: 5%;
+  }
+  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown-content a:hover {background-color: #ddd;}
+
+/* --------------------------------------------------------- */
+
+
+  /* .loginBtn{
+    margin-right: -60px;
+  }
+.loginBtn > span > span{
+  color:#00ff7e;
+  }
+  .loginBtn > span > span:hover{
+    color: #ddd;
+  } */
+
+  #menu-menu > li:nth-last-child(2) > a{
+    margin-right: -60px;
+  }
+
+#menu-menu > li:last-child > a > span > span{
+  color:#00ff7e;
+}
+#menu-menu > li:last-child > a > span > span:hover{
+  color: #ddd;
+}
+
+#menu-menu > li:nth-last-child(2) > a > span > span{
+  color:#00ff7e;
+  }
+  #menu-menu > li:nth-last-child(2) > a > span > span:hover{
+    color: #ddd;
+    }
+
+  /* ul li:nth-last-child(2)
+  style="color:#00ff7e" */
+
+  /* --------------------------------------------------------- */
+
+  .btn-effect{
+    background-color:rgb(0,193,95);
+  }
+  
+  .btn-effect:hover{
+    background-color:#00b358;
+  }

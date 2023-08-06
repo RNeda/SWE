@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 "> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <title>Moj Grad</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Icon -->
+    <link rel="shortcut icon" href="images/jsn.ico">
+
+    <!-- FONTS -->
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,400italic,700'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Patua+One:100,300,400,400italic,700'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic,900'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Poppins:100,300,400,400italic,500,600,700,700italic,800'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Pathway+Gothic+One:100,300,400,400italic,500,600,700,700italic,800'>
+
+    <!-- CSS -->
+    <link rel='stylesheet' href='css/global.css'>
+    <link rel='stylesheet' href='css/structure.css'>
+    <link rel='stylesheet' href='css/event2.css'>
+    <link rel='stylesheet' href='css/custom.css'>
+    
+    <link rel='stylesheet' href='css/calendar.css'>
+    
+
+     <!-- <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+    integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />  -->
+
+</head>
+
+<body class="color-custom style-simple button-flat layout-full-width if-zoom if-border-hide no-content-padding no-shadows header-transparent minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-right menuo-no-borders logo-no-margin mobile-tb-center mobile-mini-mr-ll tablet-sticky mobile-header-mini mobile-sticky tr-header tr-menu tr-content be-reg-20911">
+    <div id="Wrapper">
+        <div id="Header_wrapper">
+            <header id="Header">
+                <div class="header_placeholder"></div>
+                <div id="Top_bar">
+                    <div class="container">
+                        <div class="column one">
+                            <div class="top_bar_left clearfix">
+                                <div class="logo">
+                                    <!--href="index.html"  ovo je islo u a element ispod-->
+                                    <a id="logo"  title="" data-height="60" data-padding="0"><img class="logo-main scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"><img class="logo-sticky scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"><img class="logo-mobile scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"><img class="logo-mobile-sticky scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"></a>
+                                </div>
+                                <div class="menu_wrapper">
+                                    <nav id="menu">
+                                        <ul id="menu-menu" class="menu menu-main">
+                                            <li>
+                                                <a href="index.html"><span>POČETNA</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="events.html"><span>DOGAĐAJI</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="about-contact.html"><span>O NAMA</span></a>
+                                            </li>
+                                            <li id="mojnalog">
+                                                <a href="acc.html"><span>MOJ NALOG</span></a>
+                                            </li>
+                                            <li id="loginclass">
+                                                <a href="login.html"><span><span>Uloguj se</span></span></a>
+                                            </li>
+                                            <li id="registerclass">
+                                                <a href="register.html"><span><span>Prijavi se</span></span></a>
+                                            </li>
+                                            <li id="logoutclass">
+                                                <a href="index.html"><span><span  onclick="vratiNaDefault()">Odjavi se</span></span></a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                    <a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <div id="Content">
+            <div class="content_wrapper clearfix">
+                <div class="sections_group">
+                    <div class="entry-content">
+                        <div class="section mcb-section" style="padding-top:100px; padding-bottom:0px">
+                            <div class="section_wrapper mcb-section-inner"></div>
+                        </div>
+                        <div class="section mcb-section" style="padding-top:0px; padding-bottom:100px; background-image:url(images/event2-singleevent-bottombg.png); background-repeat:no-repeat; background-position:center bottom">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap one event2-customshadow valign-top clearfix" style="padding:40px; background-color:#241941">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column one column_column">
+                                            <div class="column_attr clearfix align_center">
+                                                <h3 class="themecolor">MOJ NALOG</h3>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column one column_slider">
+                                            <div class="content_slider flat">
+                                                <ul class="content_slider_ul">
+                                                    
+                                                    <li>
+                                                            	<img src="images/acc.jpg" class="scale-with-grid wp-post-image"
+                                                                style="border-radius: 8px;display: block;margin-left: auto;margin-right: auto; width: 35%;">   
+                                                    </li>
+                                                </ul>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column one column_column  column-margin-50px">
+                                            <div class="column_attr clearfix align_center">
+                                                <h2 id = "imeprezime" class="imeprezime" style="margin-bottom:5px">Ime Prezime</h2>  
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column one-sixth column_placeholder">
+                                            <div class="placeholder">
+                                                &nbsp;
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column one-third column_column">
+                                            <!--<div class="column_attr clearfix align_left mobile_align_left">
+                                                <span class="themecolor">Latest album</span>
+                                                <br>
+                                                <h6>Golden Circle</h6>
+                                            </div>-->
+                                        </div>
+                                        <div class="column mcb-column one-third column_column">
+                                            <!--<div class="column_attr clearfix">
+                                                <span class="themecolor">Genre</span>
+                                                <br>
+                                                <h6>Heavy Metal</h6>
+                                            </div>-->
+                                        </div>
+                                        <div class="column mcb-column one column_divider">
+                                            <hr class="no_line">
+                                        </div>
+                                        <div class="column mcb-column one-sixth column_placeholder">
+                                            <div class="placeholder">
+                                                &nbsp;
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column two-third column_column">
+                                            <div class="column_attr clearfix">
+                                                <hr class="no_line" style="margin:0 auto 40px">
+                                                <h3 id="emailkor">mejl adresa korisnika</h3>
+                                                <p id="podacikor">
+                                                    <!--sodales. Aliquam fringilla aliquam ex sit amet elementum. Proin bibendum sollicitudin feugiat. Curabitur ut egestas justo, vitae molestie ante. Integer magna purus, commodo in diam nec, pretium auctor sapien. In pulvinar, ipsum eu dignissim facilisis,
+                                                    massa justo varius purus, non dictum elit nibh ut massa. Nam massa erat, aliquet a rutrum eu, sagittis ac nibh.-->
+                                                </p>
+                                                <p id="organizovani">
+                                                    <!--Pellentesque velit dolor, suscipit in ligula a, suscipit rhoncus dui. Aliquam ac dui vel dui vulputate consectetur. Mauris accumsan, massa non consectetur condimentum, diam arcu tristique nibh, nec egestas diam elit at nulla.-->
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+
+                                <div class="container-cal">
+                                    <div class="left">
+                                      <div class="calendar">
+                                        <div class="month">
+                                          <!-- <i class="prev">&lt</i> -->
+                                          <i class="prev"> <img style="width:15px;height:15px;" src="images/less-than.png"> </i>
+                                          <div class="date">december 2015</div>
+                                          <!-- <i class="next">&#62</i> -->
+                                          <i class="next"> <img style="width:15px;height:15px;" src="images/greater-than.png"> </i>
+                                        </div>
+                                        <div class="weekdays">
+                                          <div>Ned</div>
+                                          <div>Pon</div>
+                                          <div>Uto</div>
+                                          <div>Sre</div>
+                                          <div>Čet</div>
+                                          <div>Pet</div>
+                                          <div>Sub</div>
+                                        </div>
+                                        <div class="days"></div>
+                                        <div class="goto-today">
+                                          <div class="goto">
+                                            <input type="text" placeholder="mm/yyyy" class="date-input" />
+                                            <button class="goto-btn" id="goto-btn">Go</button>
+                                          </div>
+                                          <button class="today-btn">Danasnji datum</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="right">
+                                      <div class="today-date">
+                                        <div class="event-day">wed</div>
+                                        <div class="event-date">12th december 2022</div>
+                                      </div>
+                                      <div class="events"></div>
+                                      <div class="add-event-wrapper">
+                                        <div class="add-event-header">
+                                          <div class="title">Dodaj događaj u svoj kalendar</div>
+                                          <i class="fas fa-times close"></i>
+                                        </div>
+                                        <div class="add-event-body">
+                                          <div class="add-event-input">
+                                            <input type="text" placeholder="Naziv" class="event-name" />
+                                          </div>
+                                          <div class="add-event-input">
+                                            <input
+                                              type="text"
+                                              placeholder="Počinje"
+                                              class="event-time-from"
+                                            />
+                                          </div>
+                                          <div class="add-event-input">
+                                            <input
+                                              type="text"
+                                              placeholder="Završava se"
+                                              class="event-time-to"
+                                            />
+                                          </div>
+                                        </div>
+                                        <div class="add-event-footer" >
+                                          <button class="add-event-btn">Potvrdi</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <button class="add-event">
+                                      <!-- <i class="fas fa-plus"></i> -->
+                                      +
+                                    </button>
+                                  </div>
+
+                                </div>
+
+
+                                <div class="wrap mcb-wrap one event2-customshadow valign-top clearfix" style="padding:40px; background-color:#140d2a">
+                                    <div class="mcb-wrap-inner">
+                                        <div class="column mcb-column one column_image">
+                                            <div class="image_frame image_item no_link scale-with-grid aligncenter no_border">
+                                                <div class="image_wrapper">
+                                                    <img class="scale-with-grid" src="images/quotes2.png">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column mcb-column one column_testimonials ">
+                                            <div class="testimonials_slider  hide-photos">
+                                                <ul class="testimonials_slider_ul">
+                                                    <li>
+                                                        <div class="single-photo-img">
+                                                            <img class="scale-with-grid" src="images/testimonials-placeholder.png">
+                                                        </div>
+                                                        <div class="bq_wrapper">
+                                                            <blockquote>
+                                                                "Svi dani postanu jednaki onda kada ljudi prestanu da primećuju lepe stvari koje im se dešavaju kad god Sunce prelazi svoj nebeski put."
+                                                                   <br /> Paulo Koeljo
+                                                            </blockquote>
+                                                        </div>
+                                                        <div class="hr_dots">
+                                                            <span></span><span></span><span></span>
+                                                        </div>
+                                                        <div class="author">
+                                                            <h5></h5><span class="company"></span>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="single-photo-img">
+                                                            <img class="scale-with-grid" src="images/testimonials-placeholder.png">
+                                                        </div>
+                                                        <div class="bq_wrapper">
+                                                            <blockquote>
+                                                                "Najlepše što možemo doživeti je ono što je tajanstveno. To je temeljni osećaj koji stoji u zametku svake umetnosti i nauke..."                                                          
+                                                                 <br /> Albert Ajnstajn
+                                                            </blockquote>
+                                                        </div>
+                                                        <div class="hr_dots">
+                                                            <span></span><span></span><span></span>
+                                                        </div>
+                                                        <div class="author">
+                                                            <h5></h5><span class="company"></span>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer id="Footer" class="clearfix">
+            <div class="widgets_wrapper" style="padding:70px 0">
+                <div class="container">
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>Newsletter</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <div role="form" class="wpcf7" id="wpcf7-f70-o1" lang="en-US" dir="ltr">
+                                    <div class="screen-reader-response"></div>
+                                    <form id="newsletterform" class="newsletter_form">
+                                        <input placeholder="Email" type="email" id="email_news" name="email_news" size="40" aria-required="true" aria-invalid="false" />
+                                        <input type="button" value="SEND" id="submit" onClick="">
+                                    </form>
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>Useful links</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <ul>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>More links</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <ul>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama 
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>Our mission</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <p>
+                                    Ideja našeg tima je promovisanjem događaja u Nišu. Želja nam je da mladima olakšamo snalaženje u gradu i da im omogućimo da brže i lakše organizuju svoje slobodno vreme.
+                                </p>
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <a class="themecolor" href="about-contact.html">Read more</a>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copy">
+                <div class="container">
+                    <div class="column one">
+                        <a id="back_to_top" class="button button_js" href="#"><i class="icon-up-open-big"></i></a>
+                        <div class="copyright">
+                            @2023 Moj Grad - JSN 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+
+    <!-- JS -->
+    <script src="js/jquery-2.1.4.min.js"></script>
+
+    <script src="js/mfn.menu.js"></script>
+    <script src="js/jquery.plugins.js"></script>
+    <script src="js/jquery.jplayer.min.js"></script>
+    <script src="js/animations/animations.js"></script>
+    <script src="js/translate3d.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/email.js"></script>
+    <script src="js/prikazinamojnalog.js"></script>
+    <script src="js/calendar.js"></script>
+    <script src="js/vratiNaDefault.js"></script>
+    
+    
+    
+</body>
+
+
+</html>

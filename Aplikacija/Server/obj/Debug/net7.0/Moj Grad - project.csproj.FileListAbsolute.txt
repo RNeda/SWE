@@ -1,0 +1,390 @@
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\appsettings.Development.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\appsettings.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.exe
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.deps.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.runtimeconfig.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.pdb
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.csproj.AssemblyReference.cache
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.AssemblyInfoInputs.cache
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.AssemblyInfo.cs
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.csproj.CoreCompileInputs.cache
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cs
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cache
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.Moj Grad - project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.build.Moj Grad - project.props
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Moj Grad - project.props
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Moj Grad - project.props
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets.build.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\staticwebassets.development.json
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\scopedcss\bundle\Moj Grad - project.styles.css
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.csproj.CopyComplete
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\refint\Moj Grad - project.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.pdb
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.genruntimeconfig.cache
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\obj\Debug\net7.0\ref\Moj Grad - project.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Azure.Core.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Azure.Identity.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Castle.Core.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Humanizer.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.CodeDom.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Elektronski fakultet\III\Softversko inzenjerstvo\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.exe
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.deps.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.Moj Grad - project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.build.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\scopedcss\bundle\Moj Grad - project.styles.css
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\refint\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\Moj Grad - project.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Moj Grad - project (1)\Moj Grad - project\obj\Debug\net7.0\ref\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.exe
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.deps.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.runtimeconfig.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.Moj Grad - project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\scopedcss\bundle\Moj Grad - project.styles.css
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\refint\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\swe git\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\ref\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.exe
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.deps.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.runtimeconfig.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.Moj Grad - project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\scopedcss\bundle\Moj Grad - project.styles.css
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\refint\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\swefinal\si.23.32.mojgrad\Aplikacija\Server\obj\Debug\net7.0\ref\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.exe
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.deps.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.runtimeconfig.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.Moj Grad - project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Moj Grad - project.props
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\scopedcss\bundle\Moj Grad - project.styles.css
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\refint\Moj Grad - project.dll
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.pdb
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\Moj Grad - project.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\sweinprogress\SWEinProgress\Aplikacija\Server\obj\Debug\net7.0\ref\Moj Grad - project.dll

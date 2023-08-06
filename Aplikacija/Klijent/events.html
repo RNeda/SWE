@@ -1,0 +1,1555 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 "> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <title>Moj Grad</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Icon -->
+    <link rel="shortcut icon" href="images/jsn.ico">
+
+    <!-- FONTS -->
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,400italic,700'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Patua+One:100,300,400,400italic,700'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic,900'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Poppins:100,300,400,400italic,500,600,700,700italic,800'>
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Pathway+Gothic+One:100,300,400,400italic,500,600,700,700italic,800'>
+
+    <!-- CSS -->
+    <link rel='stylesheet' href='css/global.css'>
+    <link rel='stylesheet' href='css/structure.css'>
+    <link rel='stylesheet' href='css/event2.css'>
+    <link rel='stylesheet' href='css/custom.css'>
+
+</head>
+
+<body class="blog color-custom style-simple button-flat layout-full-width if-zoom if-border-hide no-content-padding no-shadows header-transparent minimalist-header-no sticky-header sticky-tb-color ab-hide subheader-both-center menu-link-color menuo-right menuo-no-borders logo-no-margin mobile-tb-center mobile-mini-mr-ll tablet-sticky mobile-header-mini mobile-sticky tr-header tr-menu tr-content be-reg-20911">
+    <div id="Wrapper">
+        <div id="Header_wrapper">
+            <header id="Header">
+                <div class="header_placeholder"></div>
+                <div id="Top_bar">
+                    <div class="container">
+                        <div class="column one">
+                            <div class="top_bar_left clearfix">
+                                <div class="logo">
+                                    <a id="logo" href="index.html" title="" data-height="60" data-padding="0"><img class="logo-main scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"><img class="logo-sticky scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"><img class="logo-mobile scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"><img class="logo-mobile-sticky scale-with-grid" src="images/event2.png" data-retina="images/event2-retina.png" data-height="90" alt="event2"></a>
+                                </div>
+                                <div class="menu_wrapper">
+                                    <nav id="menu">
+                                        <ul id="menu-menu" class="menu menu-main">
+                                            <li>
+                                                <a href="index.html"><span>POČETNA</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="events.html"><span>DOGAĐAJI</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="about-contact.html"><span>O NAMA</span></a>
+                                            </li>
+                                            <li id="mojnalog">
+                                                <a href="acc.html"><span>MOJ NALOG</span></a>
+                                            </li>
+                                            <li id="loginclass">
+                                                <a href="login.html"><span><span>Uloguj se</span></span></a>
+                                            </li>
+                                            <li id="registerclass">
+                                                <a href="register.html"><span><span>Prijavi se</span></span></a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                    <a class="responsive-menu-toggle" href="#"><i class="icon-menu-fine"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div id="Subheader" style="padding:200px 0 100px">
+                <div class="container">
+                    <div class="column one">
+                        <h1 class="title">Događaji</h1>
+                    </div>
+                </div>
+            </div>
+            
+                
+                <!-- <div id="newsletterform" class="newsletter_form" style="width:140px; margin:0 auto;">
+                    
+                    <input type="button" value="Dodaj događaj" id="submit" onClick="">
+                </div> -->
+            
+                 <a href="add-event.html" style="text-decoration: none;">
+                    <div id ="eventsdodajbtn" class="btn-effect"   
+                    style="width:160px; margin:0 auto;height: 40px; text-align: center;padding: 12px; z-index: 12; white-space: nowrap; font-size: 15px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;font-family:Poppins;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer">
+                    Dodaj događaj
+                </div>
+                    </a> 
+        </div>
+
+
+        <div id="Content">
+            <div class="content_wrapper clearfix">
+                <div class="sections_group">
+                    <div class="section section-filters">
+                        <div class="section_wrapper clearfix">
+                            <div id="Filters" class="column one ">
+                                <ul class="filters_buttons">
+                                    <li class="label">
+                                         
+                                    </li>
+                                    <li class="categories">
+                                        <a class="open" href="#"><i class="icon-docs"></i>Kategorije<i class="icon-down-dir"></i></a>
+                                    </li>
+                                    
+                                    <li class="reset">
+                                        <a class="close" data-rel="*" href="events.html">Prikazi sve</a>
+                                    </li>
+                                </ul>
+                                <div class="filters_wrapper">
+                                    <ul class="categories">
+                                        <!-- <li class="reset-inner">
+                                            <a data-rel="*" href="#">Svi događaji</a>
+                                        </li> -->
+                                        <li>
+                                            <a id="filmovi-filter">Filmovi</a>
+                                        </li>
+                                        <li>
+                                            <a id="predstave-filter">Pozorišne predstave</a>
+                                        </li>
+                                        <li>
+                                            <a id="koncerti-filter">Koncerti</a>
+                                        </li>
+                                        <li>
+                                            <a id="sport-filter">Sport</a>
+                                        </li>
+                                        <li>
+                                            <a id="ostalo-filter">Ostali događaji</a>
+                                        </li>
+                                        <li class="close">
+                                            <a href="#"><i class="icon-cancel"></i></a>
+                                        </li>
+                                    </ul>                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <div class="section_wrapper clearfix">
+                            <div class="column one column_blog">
+                                <div class="blog_wrapper isotope_wrapper">
+                                    <div id="pomoc">
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer id="Footer" class="clearfix">
+            <div class="widgets_wrapper" style="padding:70px 0">
+                <div class="container">
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>Newsletter</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <div role="form" class="wpcf7" id="wpcf7-f70-o1" lang="en-US" dir="ltr">
+                                    <div class="screen-reader-response"></div>
+                                    <form id="newsletterform" class="newsletter_form">
+                                        <input placeholder="Email" type="email" id="email_news" name="email_news" size="40" aria-required="true" aria-invalid="false" />
+                                        <input type="button" value="SEND" id="submit" onClick="">
+                                    </form>
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>Useful links</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <ul>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                    <a href="index.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> Pocetna strana
+                                        </li>
+                                    </a>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>More links</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <ul>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama 
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                    <a href="about-contact.html">
+                                        <li>
+                                            <i class="themecolor icon-right-open-mini"></i> O nama
+                                        </li>
+                                    </a>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="column one-fourth">
+                        <aside class="widget_text widget widget_custom_html">
+                            <h4>Our mission</h4>
+                            <div class="textwidget custom-html-widget">
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <p>
+                                    Ideja našeg tima je promovisanjem događaja u Nišu. Želja nam je da mladima olakšamo snalaženje u gradu i da im omogućimo da brže i lakše organizuju svoje slobodno vreme.
+                                </p>
+                                <hr class="no_line" style="margin:0 auto 20px">
+                                <a class="themecolor" href="about-contact.html">Read more</a>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copy">
+                <div class="container">
+                    <div class="column one">
+                        <a id="back_to_top" class="button button_js" href="#"><i class="icon-up-open-big"></i></a>
+                        <div class="copyright">
+                            @2023 Moj Grad - JSN 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+
+    <!-- JS -->
+    <script src="js/jquery-2.1.4.min.js"></script>
+
+    <script src="js/mfn.menu.js"></script>
+    <script src="js/jquery.plugins.js"></script>
+    <script src="js/jquery.jplayer.min.js"></script>
+    <script src="js/animations/animations.js"></script>
+    <script src="js/translate3d.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/email.js"></script>
+    <script src="js/prikazinaevents.js"></script>
+    <script src="js/dodajuzainteresovane.js"></script>
+
+
+    <!--Load svih dogadjaja-->
+    <script>
+        jQuery(document).ready( function () {
+            fiiil();
+        });
+       async function fiiil(){     
+        let headers = new Headers(); 
+        headers.append('Access-Control-Allow-Origin', 'http://localhost:5016');
+             
+    const filmo = await fetch(`http://localhost:5016/Filmovi/PreuzmiSveFilmove`,{
+                method: "GET"
+            });
+    const predsta= await fetch(`http://localhost:5016/Predstave/PreuzmiSvePredstave`,{
+                method: "GET"
+            });
+    const osa = await fetch(`http://localhost:5016/OstaliDogadjaji/PreuzmiSveOstaleDogadjaje`,{
+                method: "GET"
+            });
+    const kon = await fetch(`http://localhost:5016/Koncerti/PreuzmiSveKoncerte`,{
+                method: "GET"
+            });
+    const spor= await fetch(`http://localhost:5016/Utakmice/PreuzmiSveUtakmice`,{
+                method: "GET"
+            });
+            const filmovi = await filmo.json();
+            const predstave= await predsta.json();
+            const ostali=await osa.json();
+            const koncerti=await kon.json();
+            const sport=await spor.json();
+           
+            var sve=new Array();
+           
+            filmovi.forEach(element => {
+                sve.push(element);
+            });
+            predstave.forEach(element => {
+                sve.push(element);
+            });
+            ostali.forEach(element => {
+                sve.push(element);
+            });
+            koncerti.forEach(element => {
+               sve.push(element);
+           });
+            sport.forEach(element => {
+                sve.push(element);
+            });
+
+            //console.log(sve);
+            const topEv=document.getElementById("pomoc");
+            topEv.innerHTML="";
+            let html="";
+           // sve.sort(function(a, b){return a.datumVreme - b.datumVreme});
+           for (let index = 0; index < sve.length; index++) {
+                var dog=sve[index];
+                switch (dog.kate) {
+                    case "Film":
+                    oneEvent=genTopEventsHtmlF(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hours,dog.minutes, dog.zanr, dog.mesto, dog.cenakarte,dog.vremeTrajanja, dog.glumci,dog.kratakOpis,dog.brMesta,dog.kate)
+                    html += oneEvent;
+                    break;
+                
+                    case "Pozorišne predstave":
+                    oneEvent=genTopEventsHtmlP(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hours,dog.minutes, dog.mesto, dog.cenakarte,dog.brojMesta, dog.glumci,dog.kratakOpis,dog.kate)
+                    html += oneEvent;
+                    break;
+
+                    case "Ostali događaji":
+                    oneEvent=genTopEventsHtmlO(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hours,dog.minutes, dog.mesto, dog.cenakarte,dog.kratakOpis,dog.trajeDo,dog.kate)
+                    html += oneEvent;
+                    break;
+
+                    case "Koncerti":
+                    oneEvent=genTopEventsHtmlK(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hour,dog.minute, dog.mesto, dog.cenakarte,dog.brMesta, dog.gosti,dog.izvodjac,dog.kate)
+                    html += oneEvent;
+                    break;
+
+                    case "Sport":
+                    oneEvent=genTopEventsHtmlS(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hour,dog.minute, dog.mesto, dog.cenakarte,dog.brMesta,dog.klub1,dog.klub2,dog.sport,dog.kate)
+                    html += oneEvent;
+                    break;
+                    default:
+                        break;
+                }
+                console.log(dog);
+                //event.eventtype, event.startdate, event.starttime, event.enddate, event.endtime, event.guestnum, event.impressions, event.ratingtotal);
+               
+            }
+            topEv.innerHTML=html;
+    
+           /* for(let m of filmovi){
+                const film=new Filmovi(m.id,m.naziv,m.datumVreme,m.mesto,m.organizatorID, m.cenaKarte,m.glumci,m.kratakOpis,m.vremeTrajanja,m.brMesta,m.zanr );
+                console.log(film);
+            }*/
+    }
+ function genTopEventsHtmlF(id, naziv, datumvreme, day,month,year,hour,min, zanr, mesto, cenakarte,vremeTrajanja, glumci,kratakOpis,brMesta,kate)
+   {
+       /* return`<div class="image_frame post-photo-wrapper scale-with-grid image">
+        <div class="image_wrapper">
+            <a href="event-details1.html">
+                    <img src="images/bottom-pic1.jpg" class="scale-with-grid wp-post-image">
+                </a>
+        </div>
+    </div>
+    <div class="post-desc-wrapper">
+        <div class="post-desc">
+            <div class="post-head">
+                <div class="post-meta clearfix">
+                    <div class="author-date">
+                        <span class="vcard author post-author"><span class="label">Published by </span><i class="icon-user"></i> <span class="fn"><a href="#">${organizator}</a></span></span><span class="date"><span class="label"> at </span>
+                        <i
+                            class="icon-clock"></i> <span class="post-date updated">${datumvreme}</span></span>
+                    </div>
+                    <div class="category">
+                        <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                        <div class="cat-wrapper">
+                            <ul class="post-categories">
+                                <li>
+                                    <a href="#" rel="category tag">Koncert</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="post-title">
+                <h2 class="entry-title"><a href="event-details1.html">${naziv}, ${mesto}</a></h2>
+            </div>
+            <div class="post-excerpt">
+               ${kratakOpis}
+            </div>
+            <div class="post-footer">
+                <div class="button-love">
+                    <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="77"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">0</span></a>
+                </div>
+                <div class="post-links">
+                    <i class="icon-doc-text"></i><a href="event-details1.html" class="post-more">Read more</a>
+                </div>
+            </div>
+        </div>
+    </div>`*/
+
+if(min <10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/film2.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                   <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/film2.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+  } 
+ function genTopEventsHtmlP(id,  naziv,datumvreme, day,month,year,hour,min, mesto, cenakarte,brMesta, glumci,kratakOpis,kate)
+   {
+    if(min<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/pozoriste.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/pozoriste.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+  }
+function genTopEventsHtmlO(id,  naziv,datumvreme, day,month,year,hour,min, mesto, cenakarte,kratakOpis,trajeDo,kate)
+   {
+    if(min<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/ostalo.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/ostalo.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+  }  
+function genTopEventsHtmlS(id,  naziv,datumvreme, day,month,year,hour,minute, mesto, cenakarte,brMesta, klub1,klub2,sport,kate)
+   {
+    if(minute<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/sport.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${sport}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+}
+else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/sport.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${sport}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+}
+  }
+function genTopEventsHtmlK(id,  naziv,datumvreme, day,month,year,hour,minute, mesto, cenakarte,brMesta, gosti,izvodjac,kate)
+   {
+    if(minute<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/koncert.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${izvodjac}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a href="event-details2.html">
+                       <img src="images/koncert.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a href="event-details2.html">${naziv}, ${day}.${month}.${year} u ${hour}:${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${izvodjac}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a href="event-details2.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+
+  } 
+  </script>
+  <!--Filter filmova-->
+ <script>
+    jQuery(document).ready(function() {
+            jQuery('#filmovi-filter').click(function() {
+                
+                flmoviF();
+            });
+        });
+    async function flmoviF(){  
+       
+            let headers = new Headers(); 
+             headers.append('Access-Control-Allow-Origin', 'http://localhost:5016');
+             
+            const filmo = await fetch(`http://localhost:5016/Filmovi/PreuzmiSveFilmove`,{
+                method: "GET"
+             });
+                const filmovi = await filmo.json();
+                const topEv=document.getElementById("pomoc");
+            topEv.innerHTML="";
+            let html="";
+           for (let index = 0; index < filmovi.length; index++) {
+                     var dog=filmovi[index];
+                    oneEvent=genTopEventsHtmlF(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hours,dog.minutes, dog.zanr, dog.mesto, dog.cenakarte,dog.vremeTrajanja, dog.glumci,dog.kratakOpis,dog.brMesta,dog.kate)
+                    html += oneEvent;     
+                    console.log(dog);
+                }     
+               
+            topEv.innerHTML=html;
+       
+        }
+    function genTopEventsHtmlF(id, naziv, datumvreme, day,month,year,hours,min, zanr, mesto, cenakarte,vremeTrajanja, glumci,kratakOpis,brMesta,kate)
+   {
+        if(min <10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},1)" href="event-details3.html">
+                       <img src="images/film2.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},1)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hours}:0${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},1)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},1)" href="event-details3.html">
+                       <img src="images/film2.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},1)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hours}:${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},1)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+  }    
+</script>
+<!--Filter predstava-->
+<script>
+      jQuery(document).ready(function() {
+            jQuery('#predstave-filter').click(function() {
+                predstaveF();
+            });
+        });
+    async function predstaveF(){  
+        
+            let headers = new Headers(); 
+             headers.append('Access-Control-Allow-Origin', 'http://localhost:5016');
+             
+             const predsta= await fetch(`http://localhost:5016/Predstave/PreuzmiSvePredstave`,{
+                method: "GET"
+            });
+                const predstave = await predsta.json();
+                const topEv=document.getElementById("pomoc");
+            topEv.innerHTML="";
+            let html="";
+           for (let index = 0; index < predstave.length; index++) {
+                     var dog=predstave[index];
+                     oneEvent=genTopEventsHtmlP(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hours,dog.minutes, dog.mesto, dog.cenakarte,dog.brojMesta, dog.glumci,dog.kratakOpis,dog.kate);
+                    html += oneEvent;     
+                    console.log(dog);
+                }     
+               
+            topEv.innerHTML=html;
+    }
+    function genTopEventsHtmlP(id,  naziv,datumvreme, day,month,year,hour,min, mesto, cenakarte,brMesta, glumci,kratakOpis,kate)
+   {
+    if(min<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},2)" href="event-details3.html">
+                       <img src="images/pozoriste.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},2)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},2)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},2)" href="event-details3.html">
+                       <img src="images/pozoriste.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},2)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},2)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+  }
+
+</script>
+<!--Filter koncerta-->
+<script>
+jQuery(document).ready(function() {
+            jQuery('#koncerti-filter').click(function() {
+                koncertiF();
+            });
+        });
+    async function koncertiF(){  
+        
+            let headers = new Headers(); 
+             headers.append('Access-Control-Allow-Origin', 'http://localhost:5016');
+             
+             const kon = await fetch(`http://localhost:5016/Koncerti/PreuzmiSveKoncerte`,{
+                method: "GET"
+            });
+                const koncerti = await kon.json();
+                const topEv=document.getElementById("pomoc");
+            topEv.innerHTML="";
+            let html="";
+           for (let index = 0; index < koncerti.length; index++) {
+                     var dog=koncerti[index];
+                     oneEvent=genTopEventsHtmlK(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hour,dog.minute, dog.mesto, dog.cenakarte,dog.brMesta, dog.gosti,dog.izvodjac,dog.kate)
+                    html += oneEvent;    
+                    console.log(dog);
+                }     
+               
+            topEv.innerHTML=html;
+    }
+    function genTopEventsHtmlK(id,  naziv,datumvreme, day,month,year,hour,minute, mesto, cenakarte,brMesta, gosti,izvodjac,kate)
+   {
+    if(minute<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},3)" href="event-details3.html">
+                       <img src="images/koncert.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},3)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${izvodjac}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},3)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},3)" href="event-details3.html">
+                       <img src="images/koncert.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},3)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${izvodjac}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},3)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+
+  } 
+</script>
+<!--Filter sport-->
+<script>
+    jQuery(document).ready(function() {
+            jQuery('#sport-filter').click(function() {
+                sportF();
+            });
+    });
+    async function sportF(){  
+        
+        let headers = new Headers(); 
+         headers.append('Access-Control-Allow-Origin', 'http://localhost:5016');
+         
+         const spor= await fetch(`http://localhost:5016/Utakmice/PreuzmiSveUtakmice`,{
+                method: "GET"
+            });
+            const sport = await spor.json();
+            const topEv=document.getElementById("pomoc");
+        topEv.innerHTML="";
+        let html="";
+       for (let index = 0; index < sport.length; index++) {
+                 var dog=sport[index];
+                 oneEvent=genTopEventsHtmlS(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hour,dog.minute, dog.mesto, dog.cenakarte,dog.brMesta,dog.klub1,dog.klub2,dog.sport,dog.kate)
+                html += oneEvent;   
+                console.log(dog);
+            }     
+           
+        topEv.innerHTML=html;
+}
+function genTopEventsHtmlS(id,  naziv,datumvreme, day,month,year,hour,minute, mesto, cenakarte,brMesta, klub1,klub2,sport,kate)
+   {
+    if(minute<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},4)" href="event-details3.html">
+                       <img src="images/sport.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},4)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${sport}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},4)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+}
+else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},4)" href="event-details3.html">
+                       <img src="images/sport.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},4)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:${minute}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${sport}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},4)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+}
+  }    
+</script>
+<!--Filter ostalo-->
+<script>
+ jQuery(document).ready(function() {
+            jQuery('#ostalo-filter').click(function() {
+                ostaloF();
+            });
+        });
+    async function ostaloF(){  
+        
+            let headers = new Headers(); 
+             headers.append('Access-Control-Allow-Origin', 'http://localhost:5016');
+             
+             const osa = await fetch(`http://localhost:5016/OstaliDogadjaji/PreuzmiSveOstaleDogadjaje`,{
+                method: "GET"
+            });
+                const ostalo = await osa.json();
+                const topEv=document.getElementById("pomoc");
+            topEv.innerHTML="";
+            let html="";
+           for (let index = 0; index < ostalo.length; index++) {
+                     var dog=ostalo[index];
+                     oneEvent=genTopEventsHtmlO(dog.id,dog.naziv,dog.datumVreme, dog.day,dog.month,dog.year,dog.hours,dog.minutes, dog.mesto, dog.cenakarte,dog.kratakOpis,dog.trajeDo,dog.kate)
+                    html += oneEvent;    
+                    console.log(dog);
+                }     
+               
+            topEv.innerHTML=html;
+    } 
+    function genTopEventsHtmlO(id,  naziv,datumvreme, day,month,year,hour,min, mesto, cenakarte,kratakOpis,trajeDo,kate)
+   {
+    if(min<10){
+       return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},5)" href="event-details3.html">
+                       <img src="images/ostalo.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},5)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:0${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},5)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`}
+   else{
+    return `<div class="post-item isotope-item clearfix post type-post has-post-thumbnail hentry">
+       <div class="image_frame post-photo-wrapper scale-with-grid image">
+           <div class="image_wrapper">
+               <a class="vise" onclick="testJS(${id},5)" href="event-details3.html">
+                       <img src="images/ostalo.jpg" class="scale-with-grid wp-post-image">
+                   </a>
+           </div>
+       </div>
+       <div class="post-desc-wrapper">
+           <div class="post-desc">
+               <div class="post-head">
+                   <div class="post-meta clearfix">
+                    <div class="author-date">
+                       
+                    </div>
+                     <div class="category">
+                           <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
+                           <div class="cat-wrapper">
+                               <ul class="post-categories">
+                                   <li>
+                                       <a  rel="category tag">${kate}</a>
+                                   </li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="post-title">
+                   <h2 class="entry-title"><a class="vise" onclick="testJS(${id},5)" href="event-details3.html">${naziv}, ${day}.${month}.${year} u ${hour}:${min}</a></h2>
+               </div>
+               <div class="post-excerpt">
+               ${kratakOpis}
+               </div>
+               <div class="post-footer">
+                <!--<div class="button-love" ondblclick="dodajuzainteresovane(${id}, ${kate})">
+                       <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="76"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">*</span></a>
+                   </div>-->
+                   <div class="post-links">
+                       <i class="icon-doc-text"></i><a class="vise" onclick="testJS(${id},5)" href="event-details3.html" class="post-more">Read more</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>`
+   }
+  }    
+</script>
+<!--Vise o dogadjaju-->
+<script>
+    jQuery(document).ready(function() {
+             jQuery('vise').click(function() {
+                 testJS(id,ka);
+             });
+         });
+ function testJS(id,ka) {
+     localStorage.setItem('iddogadjaja',id);
+     localStorage.setItem('kategorija',ka);
+ }
+ </script>
+
+ <!--Dodaj u omiljene-->
+<script>
+    jQuery(document).ready(function() {
+             jQuery('button-love').dblclick(function() {
+                 dodajuzainteresovane();
+             });
+         });
+ function dodajuzainteresovane() {
+    console.log("uslo u dodaj u omiljene");
+     //localStorage.setItem('iddogadjaja',id);
+     //localStorage.setItem('kategorija',ka);
+ }
+ </script>
+</body>
+
+</html>
